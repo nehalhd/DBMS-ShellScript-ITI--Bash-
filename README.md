@@ -20,6 +20,7 @@ Up on user Connect to Specific Database, there will be new Screen with this Menu
 - Insert into Table
 - Select From Table
 - Delete From Table
+- Back to Main Menu
 
 Hints:
 - The Database will store as Directory on Current Script File
