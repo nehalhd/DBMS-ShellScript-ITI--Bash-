@@ -39,7 +39,7 @@ create_DB ()
                                         else    
                                         
                                                 mkdir database/$name
-                                                 echo "congratulation DB was created "
+                                                 echo "congratulation DB created "
                                                  echo "_________________"
                                                  fi
                                      fi            
